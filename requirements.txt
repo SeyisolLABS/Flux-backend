@@ -41,6 +41,7 @@ requests==2.31.0
 # Security
 python-decouple==3.8
 cryptography==42.0.0
+pycryptodome==3.20.0
 
 # Monitoring
 sentry-sdk[fastapi]==1.40.0
